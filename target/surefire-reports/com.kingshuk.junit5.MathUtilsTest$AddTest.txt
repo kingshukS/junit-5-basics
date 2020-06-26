@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kingshuk.junit5.MathUtilsTest$AddTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.005 s - in com.kingshuk.junit5.MathUtilsTest$AddTest
